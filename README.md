@@ -1,11 +1,18 @@
 ## Hi there 👋
 
+I'm Roshan, A 2nd year Data Science and Business Analytics student at the University of London (via SIM) :)
+
+🔭 I’m currently working on creating a data science portfolio with projects based in the field of medicine and healthcare
+🌱 I’m currently learning R (specifically keras and tensorflow with R)
+
+Feel free to reach me at: 
+* roshanramchandani76@gmail.com
+* linkedin.com/in/roshanar
 <!--
 **RoshanR0100/RoshanR0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
