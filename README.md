@@ -2,8 +2,8 @@
 
 I'm Roshan, A 2nd year Data Science and Business Analytics student at the University of London (via SIM) :)
 
-🔭 I’m currently working on creating a data science portfolio with projects based in the field of medicine and healthcare
-🌱 I’m currently learning R (specifically keras and tensorflow with R)
+-🔭 I’m currently working on creating a data science portfolio with projects based in the field of medicine and healthcare
+-🌱 I’m currently learning R (specifically keras and tensorflow with R)
 
 Feel free to reach me at: 
 * roshanramchandani76@gmail.com
